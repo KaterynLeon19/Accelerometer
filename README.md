@@ -1,1 +1,1 @@
-# Acelerometro
+# Accelerometer
